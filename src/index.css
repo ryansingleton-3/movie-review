@@ -11,3 +11,59 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#html {
+  height: 100%;
+  background-color: black;
+}
+
+body {
+  height: 100%;
+}
+
+#review-form label {
+  /* margin-top: 5px; */
+  margin-bottom: 5px;
+}
+
+#review-form input {
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+#review-form button {
+  margin-bottom: 1%;
+}
+
+#feed {
+  height: 100vh;
+}
+
+/* img {
+  border-radius: 20px;
+} */
+
+/* img:hover {
+  transform: scale(1.1);
+} */
+
+#movie {
+  margin-top: 13%;
+}
+
+#movie:hover {
+  transform: scale(1.05);
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.on {
+  color: yellow;
+  
+}
+.off {
+  color: white;
+}
